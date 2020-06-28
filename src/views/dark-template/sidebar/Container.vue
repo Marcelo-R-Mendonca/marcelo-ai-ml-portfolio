@@ -7,10 +7,10 @@
       <avatar />
       <div class="text-sm-center mb-4 mt-3">
         <h1>
-          Amirreza <span class="light-blue--text text--lighten-3">Nasiri</span>
+          Marcelo <span class="light-blue--text text--lighten-3">Mendonca</span>
         </h1>
         <span>
-          A challenge-loving web developer
+          Data Science, Artificial Intelligence and Machine Learning
         </span>
       </div>
 
@@ -79,22 +79,23 @@ export default {
             {
               name: 'Email',
               icon: 'mdi-email',
-              text: 'hi@amirreza.in',
+              text: 'marcelomendonca84@gmail.com',
             },
             {
               name: 'Website',
               icon: 'mdi-web',
-              text: 'amirreza.in',
+              text: 'Marcelo\'s Portfolio',
+              link: 'https://marcelomendonca84.github.io/marcelo-ai-ml-portfolio/',
             },
             {
               name: 'Birth Date',
               icon: 'mdi-cake-variant',
-              text: 'Dec 7, 1996',
+              text: 'Feb 2, 1984',
             },
             {
-              name: 'Habitation',
+              name: 'Home',
               icon: 'mdi-map-marker',
-              text: 'Tabriz, Iran',
+              text: 'Austin, TX',
             },
           ],
         },
@@ -103,23 +104,13 @@ export default {
           items: [
             {
               icon: 'mdi-github-circle',
-              text: 'github.com/AmirrezaNasiri',
-              link: 'https://github.com/AmirrezaNasiri',
+              text: 'https://github.com/Marcelo-R-Mendonca',
+              link: 'https://github.com/marcelomendonca84/marcelo-ai-ml-portfolio',
             },
             {
               icon: 'mdi-linkedin-box',
-              text: 'linkedin.com/in/amirreza-nasiri',
-              link: 'https://linkedin.com/in/amirreza-nasiri',
-            },
-            {
-              icon: 'mdi-twitter',
-              text: 'twitter.com/Amirreza_Nasiri',
-              link: 'https://twitter.com/Amirreza_Nasiri',
-            },
-            {
-              icon: 'mdi-instagram',
-              text: 'instagram.com/amirreza.n96',
-              link: 'https://instagram.com/amirreza.n96',
+              text: 'linkedin.com/in/marcelo-mendonca-data-analytics',
+              link: 'https://www.linkedin.com/in/marcelo-mendonca-data-analytics/',
             },
           ],
         },
@@ -150,22 +141,6 @@ export default {
             {
               icon: 'mdi-teach',
               text: 'Teaching',
-            },
-            {
-              icon: 'mdi-karate',
-              text: 'Sports',
-            },
-            {
-              icon: 'mdi-music',
-              text: 'Music',
-            },
-            {
-              icon: 'mdi-account-group',
-              text: 'Leadership',
-            },
-            {
-              icon: 'mdi-book-open-page-variant',
-              text: 'Books',
             },
             {
               icon: 'mdi-android-debug-bridge',

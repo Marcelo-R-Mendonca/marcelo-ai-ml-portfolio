@@ -46,8 +46,8 @@
                 >
                   <v-progress-circular
                     rotate="360"
-                    size="65"
-                    width="2"
+                    size="85"
+                    width="4"
                     :value="item.value"
                     color="white"
                     class="ma-2"

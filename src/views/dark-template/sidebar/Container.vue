@@ -153,19 +153,15 @@ export default {
           items: [
             {
               text : 'English',
-              value: 70,
-            },
-            {
-              text : 'Turkish',
-              value: 45,
-            },
-            {
-              text : 'Azeri',
               value: 100,
             },
             {
-              text : 'Persian',
+              text : 'Portuguese',
               value: 100,
+            },
+            {
+              text : 'Spanish',
+              value: 30,
             },
           ],
         },
